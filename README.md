@@ -1,23 +1,33 @@
-1. About the Project
+About the Project
 
 This project is for our class Summer 2014 COEN 359 Design Pattern.
 Thanks for our teacher Dr. Rani Mikkilineni's outstanding instructing.
 Team members: Zhe Sun (zsun@scu.edu), Hongsen He (hhe@scu.edu).
 
-2. Directory and File Description
+Directory and File Description
+
 SensorSimulator
+
 ├─build     // Building Project Output Files
+
 ├─dist      // Executable Jar File after Building Project
+
 ├─lib       // Dependency Libraries
+
 ├─nbproject // NetBeans Project Files
+
 └─src       // Source Code
-    └─sensorsimulator // Main Module
+
+   └─sensorsimulator // Main Module
+   
         └─network       // Network Module for Networking
+        
            ├─client     // Client Sub Module for Sending Data
+           
            └─server     // Server Sub Module for Receiving Data
+           
 
-
-3. How to Use it?
+How to Use it?
 Take Windows platform as an example:
 0) You must have the JRE installed in your system. (Please refer to http://www.java.com)
 
